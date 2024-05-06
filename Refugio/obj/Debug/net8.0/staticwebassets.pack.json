@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\wwwroot\\mascotas\\02b305fc-fb24-42ad-a7ca-965fe32066a7.jpg",
+      "PackagePath": "staticwebassets\\mascotas\\02b305fc-fb24-42ad-a7ca-965fe32066a7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\wwwroot\\mascotas\\3986187e-c3c0-4138-931e-e4db03e6f54d.jpg",
+      "PackagePath": "staticwebassets\\mascotas\\3986187e-c3c0-4138-931e-e4db03e6f54d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\wwwroot\\mascotas\\62b9f1f2-1fdb-4c79-8ba8-d6c8fe52689b.jpg",
+      "PackagePath": "staticwebassets\\mascotas\\62b9f1f2-1fdb-4c79-8ba8-d6c8fe52689b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\wwwroot\\mascotas\\6e1ec76b-111d-46b7-93a2-881f0602c50f.jpg",
+      "PackagePath": "staticwebassets\\mascotas\\6e1ec76b-111d-46b7-93a2-881f0602c50f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\wwwroot\\mascotas\\c2d526f5-8d10-4498-81a2-9797e4d44154.jpg",
+      "PackagePath": "staticwebassets\\mascotas\\c2d526f5-8d10-4498-81a2-9797e4d44154.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\wwwroot\\mascotas\\ddfff82f-0d22-4b24-984d-a3cb6db76e27.jpg",
+      "PackagePath": "staticwebassets\\mascotas\\ddfff82f-0d22-4b24-984d-a3cb6db76e27.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Refugio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Refugio.props",
+      "PackagePath": "build\\Refugio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Refugio.props",
+      "PackagePath": "buildMultiTargeting\\Refugio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Refugio.props",
+      "PackagePath": "buildTransitive\\Refugio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

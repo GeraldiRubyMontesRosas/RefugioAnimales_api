@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56642708-9AEF-4D40-8F56-225C38721EF6}|Refugio\\Refugio.csproj|c:\\users\\rubym\\onedrive\\escritorio\\refugio\\refugio\\wwwroot\\mascotas\\2d6d43cd-2651-4fa7-910d-0744d7414b99.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{56642708-9AEF-4D40-8F56-225C38721EF6}|Refugio\\Refugio.csproj|solutionrelative:refugio\\wwwroot\\mascotas\\2d6d43cd-2651-4fa7-910d-0744d7414b99.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56642708-9AEF-4D40-8F56-225C38721EF6}|Refugio\\Refugio.csproj|c:\\users\\rubym\\onedrive\\escritorio\\refugio\\refugio\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56642708-9AEF-4D40-8F56-225C38721EF6}|Refugio\\Refugio.csproj|solutionrelative:refugio\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56642708-9AEF-4D40-8F56-225C38721EF6}|Refugio\\Refugio.csproj|c:\\users\\rubym\\onedrive\\escritorio\\refugio\\refugio\\wwwroot\\mascotas\\c2d526f5-8d10-4498-81a2-9797e4d44154.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{56642708-9AEF-4D40-8F56-225C38721EF6}|Refugio\\Refugio.csproj|solutionrelative:refugio\\wwwroot\\mascotas\\c2d526f5-8d10-4498-81a2-9797e4d44154.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56642708-9AEF-4D40-8F56-225C38721EF6}|Refugio\\Refugio.csproj|c:\\users\\rubym\\onedrive\\escritorio\\refugio\\refugio\\wwwroot\\mascotas\\3986187e-c3c0-4138-931e-e4db03e6f54d.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{56642708-9AEF-4D40-8F56-225C38721EF6}|Refugio\\Refugio.csproj|solutionrelative:refugio\\wwwroot\\mascotas\\3986187e-c3c0-4138-931e-e4db03e6f54d.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56642708-9AEF-4D40-8F56-225C38721EF6}|Refugio\\Refugio.csproj|c:\\users\\rubym\\onedrive\\escritorio\\refugio\\refugio\\services\\almacenadorimageneslocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56642708-9AEF-4D40-8F56-225C38721EF6}|Refugio\\Refugio.csproj|solutionrelative:refugio\\services\\almacenadorimageneslocal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56642708-9AEF-4D40-8F56-225C38721EF6}|Refugio\\Refugio.csproj|c:\\users\\rubym\\onedrive\\escritorio\\refugio\\refugio\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56642708-9AEF-4D40-8F56-225C38721EF6}|Refugio\\Refugio.csproj|solutionrelative:refugio\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56642708-9AEF-4D40-8F56-225C38721EF6}|Refugio\\Refugio.csproj|c:\\users\\rubym\\onedrive\\escritorio\\refugio\\refugio\\services\\ialmacenadorimagenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56642708-9AEF-4D40-8F56-225C38721EF6}|Refugio\\Refugio.csproj|solutionrelative:refugio\\services\\ialmacenadorimagenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56642708-9AEF-4D40-8F56-225C38721EF6}|Refugio\\Refugio.csproj|c:\\users\\rubym\\onedrive\\escritorio\\refugio\\refugio\\dtos\\mascotadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56642708-9AEF-4D40-8F56-225C38721EF6}|Refugio\\Refugio.csproj|solutionrelative:refugio\\dtos\\mascotadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56642708-9AEF-4D40-8F56-225C38721EF6}|Refugio\\Refugio.csproj|c:\\users\\rubym\\onedrive\\escritorio\\refugio\\refugio\\entities\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56642708-9AEF-4D40-8F56-225C38721EF6}|Refugio\\Refugio.csproj|solutionrelative:refugio\\entities\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2d6d43cd-2651-4fa7-910d-0744d7414b99.jpg -  [Espa\u00F1ol (M\u00E9xico)] - Bitmap [223x226, 8 bits, JPG]",
+              "DocumentMoniker": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\wwwroot\\mascotas\\2d6d43cd-2651-4fa7-910d-0744d7414b99.jpg",
+              "RelativeDocumentMoniker": "Refugio\\wwwroot\\mascotas\\2d6d43cd-2651-4fa7-910d-0744d7414b99.jpg",
+              "ToolTip": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\wwwroot\\mascotas\\2d6d43cd-2651-4fa7-910d-0744d7414b99.jpg -  [Espa\u00F1ol (M\u00E9xico)] - Bitmap [223x226, 8 bits, JPG]",
+              "RelativeToolTip": "Refugio\\wwwroot\\mascotas\\2d6d43cd-2651-4fa7-910d-0744d7414b99.jpg -  [Espa\u00F1ol (M\u00E9xico)] - Bitmap [223x226, 8 bits, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-02T22:07:21.625Z",
+              "EditorCaption": " -  [Espa\u00F1ol (M\u00E9xico)] - Bitmap [223x226, 8 bits, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "c2d526f5-8d10-4498-81a2-9797e4d44154.jpg -  [Espa\u00F1ol (M\u00E9xico)] - Bitmap [223x226, 8 bits, JPG]",
+              "DocumentMoniker": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\wwwroot\\mascotas\\c2d526f5-8d10-4498-81a2-9797e4d44154.jpg",
+              "RelativeDocumentMoniker": "Refugio\\wwwroot\\mascotas\\c2d526f5-8d10-4498-81a2-9797e4d44154.jpg",
+              "ToolTip": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\wwwroot\\mascotas\\c2d526f5-8d10-4498-81a2-9797e4d44154.jpg -  [Espa\u00F1ol (M\u00E9xico)] - Bitmap [223x226, 8 bits, JPG]",
+              "RelativeToolTip": "Refugio\\wwwroot\\mascotas\\c2d526f5-8d10-4498-81a2-9797e4d44154.jpg -  [Espa\u00F1ol (M\u00E9xico)] - Bitmap [223x226, 8 bits, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-02T16:41:01.188Z",
+              "EditorCaption": " -  [Espa\u00F1ol (M\u00E9xico)] - Bitmap [223x226, 8 bits, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3986187e-c3c0-4138-931e-e4db03e6f54d.jpg -  [Espa\u00F1ol (M\u00E9xico)] - Bitmap [223x226, 8 bits, JPG]",
+              "DocumentMoniker": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\wwwroot\\mascotas\\3986187e-c3c0-4138-931e-e4db03e6f54d.jpg",
+              "RelativeDocumentMoniker": "Refugio\\wwwroot\\mascotas\\3986187e-c3c0-4138-931e-e4db03e6f54d.jpg",
+              "ToolTip": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\wwwroot\\mascotas\\3986187e-c3c0-4138-931e-e4db03e6f54d.jpg -  [Espa\u00F1ol (M\u00E9xico)] - Bitmap [223x226, 8 bits, JPG]",
+              "RelativeToolTip": "Refugio\\wwwroot\\mascotas\\3986187e-c3c0-4138-931e-e4db03e6f54d.jpg -  [Espa\u00F1ol (M\u00E9xico)] - Bitmap [223x226, 8 bits, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-02T16:31:13.018Z",
+              "EditorCaption": " -  [Espa\u00F1ol (M\u00E9xico)] - Bitmap [223x226, 8 bits, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\Startup.cs",
+              "RelativeDocumentMoniker": "Refugio\\Startup.cs",
+              "ToolTip": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\Startup.cs",
+              "RelativeToolTip": "Refugio\\Startup.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:11:10.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAlmacenadorImagenes.cs",
+              "DocumentMoniker": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\Services\\IAlmacenadorImagenes.cs",
+              "RelativeDocumentMoniker": "Refugio\\Services\\IAlmacenadorImagenes.cs",
+              "ToolTip": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\Services\\IAlmacenadorImagenes.cs",
+              "RelativeToolTip": "Refugio\\Services\\IAlmacenadorImagenes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:09:24.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlmacenadorImagenesLocal.cs",
+              "DocumentMoniker": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\Services\\AlmacenadorImagenesLocal.cs",
+              "RelativeDocumentMoniker": "Refugio\\Services\\AlmacenadorImagenesLocal.cs",
+              "ToolTip": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\Services\\AlmacenadorImagenesLocal.cs",
+              "RelativeToolTip": "Refugio\\Services\\AlmacenadorImagenesLocal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:08:59.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mascota.cs",
+              "DocumentMoniker": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\Entities\\Mascota.cs",
+              "RelativeDocumentMoniker": "Refugio\\Entities\\Mascota.cs",
+              "ToolTip": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\Entities\\Mascota.cs",
+              "RelativeToolTip": "Refugio\\Entities\\Mascota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:39:30.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MascotaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\DTOs\\MascotaDTO.cs",
+              "RelativeDocumentMoniker": "Refugio\\DTOs\\MascotaDTO.cs",
+              "ToolTip": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\DTOs\\MascotaDTO.cs",
+              "RelativeToolTip": "Refugio\\DTOs\\MascotaDTO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAEwA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:39:29.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MascotasController.cs",
+              "DocumentMoniker": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\Controllers\\MascotasController.cs",
+              "RelativeDocumentMoniker": "Refugio\\Controllers\\MascotasController.cs",
+              "ToolTip": "C:\\Users\\rubym\\OneDrive\\Escritorio\\Refugio\\Refugio\\Controllers\\MascotasController.cs",
+              "RelativeToolTip": "Refugio\\Controllers\\MascotasController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAuwJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:39:26.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

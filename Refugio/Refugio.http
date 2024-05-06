@@ -1,0 +1,6 @@
+@Refugio_HostAddress = http://localhost:5125
+
+GET {{Refugio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

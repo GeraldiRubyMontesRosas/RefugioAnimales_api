@@ -1,0 +1,14 @@
+INSERT INTO `refugio`.`generos` (`Nombre`) VALUES
+('Macho'),
+('Hembra');
+
+INSERT INTO `refugio`.`especies` (`Nombre`) VALUES
+('Gato'),
+('Perro');
+
+INSERT INTO `refugio`.`tamaños` (`Nombre`) VALUES
+('Chico'),
+('Chico-Mediano'),
+('Mediano'),
+('Mediano-Grande'),
+('Grande');
